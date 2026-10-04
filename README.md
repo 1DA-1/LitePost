@@ -1,7 +1,13 @@
 # LitePost 🌟
  
 A simplified Twitter-style social app built with PHP and Laravel. Users can create an account with a profile picture, post, reply in threads, like posts, and view each other's profiles.
- 
+
+ ## Screenshots
+
+| Home feed | Profile | Sign up |
+| --- | --- | --- |
+| ![Home feed](screenshots/feed.jpg) | ![Profile](screenshots/profile.jpg) | ![Sign up](screenshots/signup.jpg) |
+
 ## Features
  
 - Register with an avatar upload, log in, and log out
